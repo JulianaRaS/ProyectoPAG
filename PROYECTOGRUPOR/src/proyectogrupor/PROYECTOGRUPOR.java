@@ -15,7 +15,7 @@ public class PROYECTOGRUPOR {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("creando el proyecto");
+        System.out.println("modificando el proyecto");
     }
     
 }
