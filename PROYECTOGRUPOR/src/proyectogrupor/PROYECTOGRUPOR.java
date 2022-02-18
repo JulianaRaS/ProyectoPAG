@@ -16,6 +16,7 @@ public class PROYECTOGRUPOR {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("modificando el proyecto");
+        System.out.println("Jefferson  Vega");
     }
     
 }
